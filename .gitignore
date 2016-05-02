@@ -20,6 +20,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Zip files
+*.zip
 
 ### Sass ###
 .sass-cache/

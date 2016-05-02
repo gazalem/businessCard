@@ -1,2 +1,2 @@
-.box{height:192px;width:336px;background-color:#2E0854}.box h1{font-size:3rem;color:#fff}.box h3{color:gold}.box .data{color:gold}
+.wrapper{text-align:center}.box{height:384px;width:672px;background-color:#5c2946;display:inline-block;margin-top:.4rem}.box h1{font-size:2rem;color:#fff;margin:6rem 0 0 .6rem;padding:0}.box h3{color:#bb9f68;font-size:1rem;font-weight:bold;margin-top:0;margin-bottom:0}.box .data p{color:#bb9f68;font-size:1rem;line-height:1.5}
 /*# sourceMappingURL=main.css.map */
